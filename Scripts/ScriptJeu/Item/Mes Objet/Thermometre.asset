@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d6b696685492f419a17a88fac7bde0, type: 3}
+  m_Name: Thermometre
+  m_EditorClassIdentifier: 
+  name: Thermometre
+  image: {fileID: 671791453, guid: ec2271264515f864a8cc8d52db7588dc, type: 3}

@@ -1,0 +1,7 @@
+*.json
+*.meta
+/FBX
+*.mat
+/Personnage/Ch17_nonPBR.fbx 
+/SuitCase/Textures/Briefcase_Material_Normal.png
+/Scenario_2/Groupe_2.fbx
